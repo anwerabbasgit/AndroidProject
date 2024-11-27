@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:title="Reset"
+        android:id="@+id/optionsmenu_reset"
+        android:icon="@drawable/ic_reset"
+        app:showAsAction="always"
+
+        />
+    <item
+        android:title="About"
+        android:id="@+id/optionsmenu_about"
+        />
+    <item
+        android:title="Exit"
+        android:id="@+id/optionsmenu_exit"
+        />
+</menu>
